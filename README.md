@@ -2,7 +2,8 @@
 
 Простая программа для конвертации изображений в PDF формат с удобным графическим интерфейсом.
 
-![image](https://github.com/user-attachments/assets/1e55dcbe-5fa2-4ebc-80d4-60975ee7c381)
+![image](https://github.com/user-attachments/assets/5ccbe5b2-a688-4684-b22c-4499b1958dd3)
+
 
 
 
